@@ -4,7 +4,7 @@
 * run build.sh 
 
 ## install
-```sh init.sh``
+```sh init.sh```
 ## syntax
 
 use $include(path/to/file)
