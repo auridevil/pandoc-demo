@@ -1,5 +1,7 @@
 # ROLE 2
 
+Role 2 description
+
 ## COMPETENCES
 
 $include src/competences/competence1.MD
